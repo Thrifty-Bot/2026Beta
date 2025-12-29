@@ -15,6 +15,7 @@ Note that all updated documentation for 2026 changes, new features, etc. can be 
 
 - [REV Beta 2](REV.md)
 - [CTRE Beta 1](CTRE.md)
+- [Thrifty Bot Beta 1](TTB.md)
 
 ### Other
 
